@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Trung Nguyen trungthu1105@gmail.com 
 
 # THANKS
 
