@@ -15,3 +15,7 @@ As stated above, the main purpose is to provide simple example for Git
 This is a simple web project, deployment
 
 ### How to contribute
+
+## Copyright
+
+2014 Git.Training
